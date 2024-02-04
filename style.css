@@ -1,0 +1,56 @@
+.h_1{
+    color: lightseagreen;
+    text-align: center;
+    font-size: 90px;
+    
+}
+
+.mypic{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    align-items: center;
+}
+
+.bod{
+color: #40514e;
+text-align: center;
+font-family: "Merriweather", serif;
+}
+
+.para{
+    font-family: "Merriweather", serif;
+}
+
+.h_2{
+    color: lightseagreen;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 100;
+    
+}
+.btn{
+    font-size: 20px;
+    color: antiquewhite;
+    background-color: #11cdd4;
+    border-radius: 8px;
+    padding: 10px;
+    font-family: "Montserrat", sans-serif;
+    margin: 30px;
+}
+
+.fel{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    justify-content: center;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+
+.fot{
+    background-color: #11cdd4;
+    padding: 50px 0 40px;
+}
